@@ -1,4 +1,4 @@
-# GraphQL Get Query Plugins
+# GraphQL Get Query Plugin
 
 Insomnia's GraphQL query editor always send the request with the editor content as the request body.
 This means that if you're calling an endpoint that uses a `query` parameter it won't work as expected.
