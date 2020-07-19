@@ -1,0 +1,11 @@
+{
+  "name": "insomnia-plugin-graphql-get-query",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "insomnia": {
+    "name": "insomnia-plugin-graphql-get-query",
+    "displayName": "GraphQL Get Query",
+    "description": "Adds support for GraphQL GET queries."
+  }
+}
